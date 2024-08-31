@@ -1,0 +1,1 @@
+print "Number of lines: $nids\n";

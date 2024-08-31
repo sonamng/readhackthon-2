@@ -1,0 +1,1 @@
+Logger.log("Hello App Script");
